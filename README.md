@@ -1,0 +1,1 @@
+# SituacaoDeAprendizagemBancoDeDados1
